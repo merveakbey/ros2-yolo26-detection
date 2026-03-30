@@ -1,0 +1,3 @@
+[console_scripts]
+yolo26_detector_node = yolo26_publisher_py.main:main
+
