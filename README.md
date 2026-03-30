@@ -138,14 +138,14 @@ Node’u çalıştırmak için:
 ros2 run yolo26_publisher_py yolo_detector
 ```
 ## Parametrelerle çalıştırmak için:
-
+```bash
 ros2 run yolo26_publisher_py yolo_detector --ros-args \
   -p model_path:=/home/merve/yolo26nvisdroneboat.pt \
   -p video_source:=/home/merve/ros2_ws/License\ Plate\ Detection\ Test.mp4 \
   -p conf_threshold:=0.25 \
   -p frame_id:=camera \
   -p topic_name:=/yolo26/detections
-  
+  ```
 ## Parametreler
 
 Node aşağıdaki parametreleri destekler:
