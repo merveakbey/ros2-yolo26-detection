@@ -1,11 +1,31 @@
-build/
-install/
-log/
+# Python
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
+*.so
 *.log
+
+# Virtual env
+venv/
+.venv/
+
+# ROS2
+build/
+install/
+log/
+
+# Packaging / generated
+*.egg-info/
+dist/
+*.deb
+debian/ros-*/
+*.tar.gz
+
+# IDE
 .vscode/
 .idea/
-*.deb
-debian/
+
+# OS
+.DS_Store
+Thumbs.db
