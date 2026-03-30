@@ -1,0 +1,9 @@
+setup.py
+yolo26_interfaces/__init__.py
+yolo26_interfaces.egg-info/PKG-INFO
+yolo26_interfaces.egg-info/SOURCES.txt
+yolo26_interfaces.egg-info/dependency_links.txt
+yolo26_interfaces.egg-info/top_level.txt
+yolo26_interfaces/msg/__init__.py
+yolo26_interfaces/msg/_yolo_detection.py
+yolo26_interfaces/msg/_yolo_detection_array.py
