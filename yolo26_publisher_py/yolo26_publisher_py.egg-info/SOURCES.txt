@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+resource/yolo26_publisher_py
+yolo26_publisher_py/__init__.py
+yolo26_publisher_py/detector_impl.c
+yolo26_publisher_py/detector_impl.py
+yolo26_publisher_py/main.py
+yolo26_publisher_py/yolo_pub.py
+yolo26_publisher_py.egg-info/PKG-INFO
+yolo26_publisher_py.egg-info/SOURCES.txt
+yolo26_publisher_py.egg-info/dependency_links.txt
+yolo26_publisher_py.egg-info/entry_points.txt
+yolo26_publisher_py.egg-info/not-zip-safe
+yolo26_publisher_py.egg-info/requires.txt
+yolo26_publisher_py.egg-info/top_level.txt
