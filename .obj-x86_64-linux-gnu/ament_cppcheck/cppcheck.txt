@@ -1,9 +1,0 @@
--- run_test.py: invoking following command in '/home/merve/ros2_ws/src/yolo26_interfaces':
- - /opt/ros/humble/bin/ament_cppcheck --xunit-file /home/merve/ros2_ws/src/yolo26_interfaces/.obj-x86_64-linux-gnu/test_results/yolo26_interfaces/cppcheck.xunit.xml --include_dirs /home/merve/ros2_ws/src/yolo26_interfaces/.obj-x86_64-linux-gnu/rosidl_generator_c /home/merve/ros2_ws/src/yolo26_interfaces/.obj-x86_64-linux-gnu/rosidl_typesupport_fastrtps_c /home/merve/ros2_ws/src/yolo26_interfaces/.obj-x86_64-linux-gnu/rosidl_generator_cpp /home/merve/ros2_ws/src/yolo26_interfaces/.obj-x86_64-linux-gnu/rosidl_typesupport_fastrtps_cpp /home/merve/ros2_ws/src/yolo26_interfaces/.obj-x86_64-linux-gnu/rosidl_typesupport_introspection_c /home/merve/ros2_ws/src/yolo26_interfaces/.obj-x86_64-linux-gnu/rosidl_typesupport_introspection_cpp /home/merve/ros2_ws/src/yolo26_interfaces/.obj-x86_64-linux-gnu/rosidl_generator_c /home/merve/ros2_ws/src/yolo26_interfaces/.obj-x86_64-linux-gnu/rosidl_generator_py
-
-No files found
-
-
--- run_test.py: return code 1
--- run_test.py: generate result file '/home/merve/ros2_ws/src/yolo26_interfaces/.obj-x86_64-linux-gnu/test_results/yolo26_interfaces/cppcheck.xunit.xml' with failed test
--- run_test.py: verify result file '/home/merve/ros2_ws/src/yolo26_interfaces/.obj-x86_64-linux-gnu/test_results/yolo26_interfaces/cppcheck.xunit.xml'
