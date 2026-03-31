@@ -1,0 +1,7 @@
+{
+  "package_name": "yolo26_interfaces",
+  "non_idl_tuples": [
+    "/home/merve/ros2_ws/src/yolo26_interfaces:msg/YoloDetection.msg",
+    "/home/merve/ros2_ws/src/yolo26_interfaces:msg/YoloDetectionArray.msg"
+  ]
+}

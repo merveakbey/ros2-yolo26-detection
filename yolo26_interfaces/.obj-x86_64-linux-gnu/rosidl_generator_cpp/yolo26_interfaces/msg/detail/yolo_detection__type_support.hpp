@@ -1,0 +1,31 @@
+// generated from rosidl_generator_cpp/resource/idl__type_support.hpp.em
+// with input from yolo26_interfaces:msg/YoloDetection.idl
+// generated code does not contain a copyright notice
+
+#ifndef YOLO26_INTERFACES__MSG__DETAIL__YOLO_DETECTION__TYPE_SUPPORT_HPP_
+#define YOLO26_INTERFACES__MSG__DETAIL__YOLO_DETECTION__TYPE_SUPPORT_HPP_
+
+#include "rosidl_typesupport_interface/macros.h"
+
+#include "yolo26_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp"
+
+#include "rosidl_typesupport_cpp/message_type_support.hpp"
+
+#ifdef __cplusplus
+extern "C"
+{
+#endif
+// Forward declare the get type support functions for this type.
+ROSIDL_GENERATOR_CPP_PUBLIC_yolo26_interfaces
+const rosidl_message_type_support_t *
+  ROSIDL_TYPESUPPORT_INTERFACE__MESSAGE_SYMBOL_NAME(
+  rosidl_typesupport_cpp,
+  yolo26_interfaces,
+  msg,
+  YoloDetection
+)();
+#ifdef __cplusplus
+}
+#endif
+
+#endif  // YOLO26_INTERFACES__MSG__DETAIL__YOLO_DETECTION__TYPE_SUPPORT_HPP_

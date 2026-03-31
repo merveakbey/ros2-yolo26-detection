@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite
+  name="yolo26_interfaces.flake8"
+  tests="1"
+  errors="0"
+  failures="0"
+  time="0.067"
+>
+  <testcase
+    name="flake8"
+    classname="yolo26_interfaces.flake8"/>
+  <system-out>Checked files:</system-out>
+</testsuite>

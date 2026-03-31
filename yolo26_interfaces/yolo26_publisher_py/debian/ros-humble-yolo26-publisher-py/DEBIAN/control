@@ -1,0 +1,9 @@
+Package: ros-humble-yolo26-publisher-py
+Version: 0.0.1-0jammy
+Architecture: amd64
+Maintainer: merve <akbeymerve1@gmail.com>
+Installed-Size: 142
+Depends: ros-humble-rclpy, ros-humble-yolo26-interfaces
+Section: misc
+Priority: optional
+Description: YOLO26 detector ROS 2 node
